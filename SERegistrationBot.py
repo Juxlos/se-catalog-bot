@@ -146,5 +146,5 @@ async def on_ready():
         
 
 #Runs the whole thing
-client.run('MjE2NTM1MTc4MDU3NzQ0Mzg0.Cpnf0g.Qw26r3wZ75czjI6tCkoUftIWFUo')
+client.run(client_id)
 
